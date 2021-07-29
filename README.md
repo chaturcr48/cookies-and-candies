@@ -1,4 +1,4 @@
-# otp
+# e-Bonbons
 
 ## Project setup
 ```
